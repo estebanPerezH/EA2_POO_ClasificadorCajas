@@ -1,0 +1,36 @@
+# Ignorar videos pesados
+*.mp4
+*.webm
+
+# Ignorar ejecutables compilados
+*.exe
+*.o
+*.obj
+
+# Ignorar scripts auxiliares de generación
+download_poo_videos.py
+generar_ea2_completo.py
+generar_html_ia.py
+actualizar_ea2_real.py
+set_code.js
+code_str.json
+ea2_guidelines_full.txt
+chat_ia_1.html
+chat_ia_2.html
+chatgpt_template.html
+
+# Ignorar capturas temporales y de depuración
+*onecompiler_test*
+*debug_state*
+test_chrome*
+real_prueba*
+real_captura*
+real_onecompiler*
+captura_onecompiler_completa*
+crop_consola*
+consola_captura*
+terminal_prueba*
+terminal_reporte*
+captura_ia_1.png
+captura_ia_2.png
+salida_consola_pruebas.txt
