@@ -2,7 +2,7 @@
 **Evidencia de Aprendizaje 2 (EA2): Modeladores de Flujos: Lógica y Control en el Entorno**  
 **Curso:** Programación Orientada a Objetos (Ruta Ingeniería Mecatrónica)  
 **Institución:** Institución Universitaria Digital de Antioquia (IU Digital)  
-**Estudiante:** Jhoan Esteban Pérez Henao  
+**Estudiante:** Jhoan Esteban Pérez Herrera  
 **Docente:** Juan Esteban Acevedo Carvajal  
 
 ---

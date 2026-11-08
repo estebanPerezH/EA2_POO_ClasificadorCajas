@@ -1,5 +1,5 @@
 # GUION DE SUSTENTACIÓN EN VIDEO Y PARTICIPACIÓN EN EL FORO EA2
-**Estudiante:** Jhoan Esteban Pérez Henao  
+**Estudiante:** Jhoan Esteban Pérez Herrera  
 **Asignatura:** Programación Orientada a Objetos – Ruta C++ (Ingeniería Mecatrónica)  
 **Docente:** Juan Esteban Acevedo Carvajal  
 **Institución:** IU Digital de Antioquia  
@@ -18,7 +18,7 @@
 ### ⏱️ Minuto 0:00 - 0:40 | Saludo, Identificación y Contexto de la Solución
 *(Hablando a la cámara, con energía y seguridad)*
 
-> "Buenas tardes, profesor Juan Esteban y compañeros. Mi nombre es **Jhoan Esteban Pérez Henao**, estudiante del programa de **Ingeniería Mecatrónica** en la IU Digital de Antioquia.
+> "Buenas tardes, profesor Juan Esteban y compañeros. Mi nombre es **Jhoan Esteban Pérez Herrera**, estudiante del programa de **Ingeniería Mecatrónica** en la IU Digital de Antioquia.
 >
 > Para esta Evidencia de Aprendizaje 2, doy continuidad al reto de la estación de empaque industrial que abordamos en la EA1: la clasificación automatizada de piezas en una fábrica de repuestos en el Valle de Aburrá.
 >
@@ -88,7 +88,7 @@
 ## 2. PLANTILLAS DIRECTAS PARA EL FORO DE CONTROL DE FLUJOS
 
 ### A. Mensaje para tu Publicación Inicial en el Foro:
-> **Asunto:** Sustentación Individual EA2 - Automatización de Clasificación en C++ - Jhoan Esteban Pérez Henao  
+> **Asunto:** Sustentación Individual EA2 - Automatización de Clasificación en C++ - Jhoan Esteban Pérez Herrera  
 > **Cuerpo del mensaje:**  
 > Buenas tardes, profesor Juan Esteban y compañeros.  
 > Comparto el enlace de mi video de sustentación individual para la EA2, donde presento la lógica de control, el código en C++ y la ejecución en vivo de las tres pruebas (habitual, límite e inválida) para la línea de clasificación de paquetes:  
