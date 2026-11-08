@@ -14,6 +14,9 @@ El sistema simula la captura continua de dimensiones de paquetes que viajan por 
 - **Banda Transportadora A:** Cajas de gran volumen ($> 500.00\text{ cm}^3$).
 - **Banda Transportadora B:** Cajas compactas o de tamaño estándar ($\le 500.00\text{ cm}^3$).
 
+### 🎥 Video de Sustentación Audiovisual (Individual)
+- **Enlace de visualización en Google Drive:** [Sustentación en Video - Jhoan Esteban Pérez Herrera](https://drive.google.com/file/d/1_K32-rnyHYCGW6WSd1mfKlbQKjIgRWQJ/view?usp=sharing)
+
 ---
 
 ## ⚙️ Estructuras de Control Implementadas (Sin Sobreingeniería)

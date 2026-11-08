@@ -92,8 +92,8 @@
 > **Cuerpo del mensaje:**  
 > Buenas tardes, profesor Juan Esteban y compañeros.  
 > Comparto el enlace de mi video de sustentación individual para la EA2, donde presento la lógica de control, el código en C++ y la ejecución en vivo de las tres pruebas (habitual, límite e inválida) para la línea de clasificación de paquetes:  
-> 🔗 **Enlace al video:** [PEGA_AQUÍ_EL_LINK_DE_TU_VIDEO]  
-> 🔗 **Enlace al código:** https://onecompiler.com/cpp (código `clasificador_cajas.cpp` disponible también en la entrega principal).  
+> 🔗 **Enlace al video:** https://drive.google.com/file/d/1_K32-rnyHYCGW6WSd1mfKlbQKjIgRWQJ/view?usp=sharing  
+> 🔗 **Repositorio en GitHub (Código C++):** https://github.com/estebanPerezH/EA2_POO_ClasificadorCajas  
 > Quedo atento a sus observaciones y preguntas técnicas. ¡Muchos éxitos a todos!
 
 ---
